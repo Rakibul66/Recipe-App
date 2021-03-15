@@ -46,10 +46,10 @@ App is targeted to people of any age:
 ## ScreenShots
 App Intro                  |Display Info               |User Basic Info
 :-------------------------:|:-------------------------:|:-------------------------:
-![Entry Steps](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796511418.png) | ![App Intro](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787498520.png) | ![Entry Info](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796498357.png)
+![Entry Steps](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796511418.png) | ![Dashboard1](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787498520.png) | ![Dashboard2](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796498357.png)
 
-Home Screen                |Food Search                |Essential Nutrients
+Home Screen                |Dashboard4               |Dashboard3
 :-------------------------:|:-------------------------:|:-------------------------:
-![Home Sscreen](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796504518.png) | ![Food Search](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787513018.png) | ![Essential Nutrients](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787503766.png)
+![Notification](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796504518.png) | ![Food Search](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787513018.png) | ![Navigation drawer](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787503766.png)
 
 
