@@ -1,44 +1,39 @@
 # Recipe App
  This app is based on Android native application which app recipe functionalaties
  
- # Stayfit
 
 ## Running the app
   Open the project in Android Studio
   
-    - Build the app
-    - Run the app (Simulator/ Real Device - Targeted for API 22 Nexus 5 1920x1080)
+    - Clone the project url
+    - open as Git and paste the Url
+    - or Download the project and import as existing project.
 
 ## About the app
 
-  Fitness application that’s used to keep track of your physical fitness data, daily calorie count, invite friends to work out together and ultimately get healthy.
+  Recipe  application that’s used to keep track of food Recipe and awsome notification system.
 
 App is targeted to people of any age:
   
-    o Who wants to have track of his fitness
+    o Who wants to have track of his food recipes
     o Change food habits to gain or lose body weight.
-    o Keep track of daily calorie count using Food and Physical activity data
-    o Compare your fitness data with friends
-    o Wanted to take health advices from other persons (follow their public daily meal plan / workout schedule)
-    o Who like to do some physical activity with friends at a gym / run-track (invite friends)
+    
+  
 
 ### Features:
 
-    - Measures daily fitness
-    - Graphical Statistics
-    - Record Daily Food Activity
-    - Invite Friends by sharing location
+    - Daily Recipes
+    - Notification
+    - Recyclerview
+    - Navigation drawer
 
 ### Application Uses:
 
     Database                  : Firebase
-    Login and Authentication  : Firebase, Google, Facebook
-    Food API                  : Nutritionix
-    Maps API                  : Google
-    Youtube API               : Google
-    Voice to Text Integration : Google
-    Step Counter              : In-built Sensor
-    Animations                : WasABeef, AppIntro, ProgressView
+    Login and Authentication  : Firebase, Google.
+    Language                  : Java
+    Tools                     : Android Studio
+  
 
 ### Functionalities app consists:
 
@@ -46,28 +41,15 @@ App is targeted to people of any age:
     -Recycler View
     -Viewpager
     -Toolbars, Menus, Floating Action Buttons
-    -Co-ordinator Layout
-    -Fragments and Activities
-    -User/ saved app state
-    -Multiple Orientation changes
-    -Hosting data to cloud (firebase)
-    -Youtube
-    -Voice-to-Text
-    -Map
-    -GPS
-    -Real API Data
-    -Parsing JSON Data
-    -Async Taks and threads
-    -Service (Sensors)
     -Content provider (Contacts Picker, SMS Manager)
 
 ## ScreenShots
 App Intro                  |Display Info               |User Basic Info
 :-------------------------:|:-------------------------:|:-------------------------:
-![Entry Steps](https://github.com/rahulmaddineni/Stayfit/blob/master/Screenshots/Phone%20Screenshot%201.jpg) | ![App Intro](https://github.com/rahulmaddineni/Stayfit/blob/master/Screenshots/Phone%20Screenshot%203.jpg) | ![Entry Info](https://github.com/rahulmaddineni/Stayfit/blob/master/Screenshots/Phone%20Screenshot%202.jpg)
+![Entry Steps](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796511418.png) | ![App Intro](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787498520.png) | ![Entry Info](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796498357.png)
 
 Home Screen                |Food Search                |Essential Nutrients
 :-------------------------:|:-------------------------:|:-------------------------:
-![Home Sscreen](https://github.com/rahulmaddineni/Stayfit/blob/master/Screenshots/Phone%20Screenshot%204.jpg) | ![Food Search](https://github.com/rahulmaddineni/Stayfit/blob/master/Screenshots/Phone%20Screenshot%206.jpg) | ![Essential Nutrients](https://github.com/rahulmaddineni/Stayfit/blob/master/Screenshots/Phone%20Screenshot%205.jpg)
+![Home Sscreen](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1615796504518.png) | ![Food Search](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787513018.png) | ![Essential Nutrients](https://github.com/Rakibul66/Recipe-App/blob/main/Screenshots/1614787503766.png)
 
 
